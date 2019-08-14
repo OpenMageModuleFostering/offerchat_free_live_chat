@@ -8,7 +8,7 @@
       </tabs>	
       <sections>
             <OfferChat_options  translate="label" module="OfferchatFreeLiveChat">                    
-            <label>Offerchat Free Live Chat Installation Settings</label>
+            <label>Offerchat Settings</label>
             <tab>SaveTheMageconfig</tab>
             <frontend_type>text</frontend_type>
             <sort_order>1000</sort_order>
@@ -17,7 +17,7 @@
             <show_in_store>1</show_in_store>
             <groups>
                 <OfferChatSettings translate="label">
-                    <label>Offerchat Free Live Chat Installation Settings</label>
+                    <label>Embed OfferChat Live Chat Widget</label>
                     <frontend_type>text</frontend_type>
                     <sort_order>1</sort_order>
                     <show_in_default>1</show_in_default>
@@ -26,9 +26,9 @@
 
                     <fields>
                         <MerchantApiCode>
-                                <label>Merchant Api Code</label>
+                                <label>API Key</label>
                                 <frontend_type>text</frontend_type>
-                                <comment><![CDATA[Api Code for the merchant collected from Offerchat after Registration. 
+                                <comment><![CDATA[Login to app.offerchat.com. Click Widget Settings on the left and you will see your API Key
 <!--Visit <a target='_blank' href='http://www.savethemage.com/blog/how-to-install-offerchat-on-magento/'>how-to-install-offerchat-on-magento</a> to see the meaning of Api Key.-->
 ]]></comment>
                                 <sort_order>1</sort_order>
