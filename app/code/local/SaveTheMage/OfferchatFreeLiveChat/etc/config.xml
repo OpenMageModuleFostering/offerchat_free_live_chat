@@ -2,7 +2,7 @@
 <config>
   <modules>
     <SaveTheMage_OfferchatFreeLiveChat>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
     </SaveTheMage_OfferchatFreeLiveChat>
   </modules>
   <frontend>

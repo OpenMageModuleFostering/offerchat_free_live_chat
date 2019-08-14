@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <package>
     <name>Offerchat_Free_Live_Chat</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <stability>stable</stability>
     <license>GPL</license>
     <channel>community</channel>
     <extends/>
-    <summary>Offerchat free live chat software for Magento.</summary>
+    <summary>The official extension for Offerchat</summary>
     <description>&lt;h1&gt;Description&lt;/h1&gt;&#xD;
 &lt;p&gt;Offerchat is a &lt;b&gt;free live chat program&lt;/b&gt; from &lt;a href="https://www.offerchat.com/" title="Offerchat Free Live Chat"&gt;www.offerchat.com&lt;/a&gt;. This is the Official Magento Extension which will  install the widget into your site. Simply enter your API Key after signing up for a free account with Offerchat.&#xD;
 &lt;/p&gt;&#xD;
@@ -54,12 +54,15 @@
 &lt;h1&gt;Support&lt;/h1&gt;&#xD;
 &lt;p&gt;Have any questions about this product? Email us at &lt;a href="mailto:support@savethemage.com"&gt;Support@SaveTheMage.com&lt;/a&gt; or call us Toll-Free at &lt;b&gt;1-888-979-5882&lt;/b&gt;&#xD;
 &lt;/p&gt;&#xD;
-</description>
-    <notes>Official release</notes>
+&#xD;
+&lt;h1&gt;Developer Highlight&lt;/h1&gt;&#xD;
+&lt;p&gt;We are working hard to provide quality magento extensions that pack amazing value. With over 20 years combined programming, design and webmaster experience, we are hitting the Magento scene hard. We will do everything to make sure you are 110% satisfied. Check out our other Magento extensions and services at &lt;a href="http://www.savethemage.com/" title="Magento Extensions"&gt;www.SaveTheMage.com&lt;/a&gt;&#xD;
+&lt;/p&gt;</description>
+    <notes>Official Release</notes>
     <authors><author><name>SaveTheMage</name><user>SaveTheMage</user><email>support@savethemage.com</email></author></authors>
     <date>2013-07-24</date>
-    <time>19:34:27</time>
-    <contents><target name="magelocal"><dir name="SaveTheMage"><dir name="OfferchatFreeLiveChat"><dir name="Helper"><file name="Data.php" hash="41ce2117f49f07140a4c1dcaa166088d"/></dir><dir name="etc"><file name="adminhtml.xml" hash="3a4b53ff5589e39acdfd54e785cdc9b7"/><file name="config.xml" hash="06a686f4311e3025ff05eb203f805339"/><file name="system.xml" hash="e9e2f088835ba7b720bf28290fec100a"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="SaveTheMage"><file name="OfferchatFreeLiveChat.xml" hash="329c8b3c029b1df26864cf8194b6cd00"/></dir></dir><dir name="template"><dir name="SaveTheMage"><dir name="OfferchatFreeLiveChat"><file name="index.phtml" hash="ec1d6ee1794797550756164519daf505"/></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="SaveTheMage_OfferchatFreeLiveChat.xml" hash="1afc1a5f4ba7cacd652cbaa482e4c3a8"/></dir></target></contents>
+    <time>21:50:36</time>
+    <contents><target name="magelocal"><dir name="SaveTheMage"><dir name="OfferchatFreeLiveChat"><dir name="Helper"><file name="Data.php" hash="41ce2117f49f07140a4c1dcaa166088d"/></dir><dir name="etc"><file name="adminhtml.xml" hash="3a4b53ff5589e39acdfd54e785cdc9b7"/><file name="config.xml" hash="c0183b580eb0b213f7f2b12169044c54"/><file name="system.xml" hash="e9e2f088835ba7b720bf28290fec100a"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="SaveTheMage"><file name="OfferchatFreeLiveChat.xml" hash="329c8b3c029b1df26864cf8194b6cd00"/></dir></dir><dir name="template"><dir name="SaveTheMage"><dir name="OfferchatFreeLiveChat"><file name="index.phtml" hash="ec1d6ee1794797550756164519daf505"/></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="SaveTheMage_OfferchatFreeLiveChat.xml" hash="fde0f33f28fe6191a597c8c57e580e2e"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
 </package>
