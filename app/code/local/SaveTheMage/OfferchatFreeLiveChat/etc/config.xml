@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <SaveTheMage_OfferchatFreeLiveChat>
+      <version>1.0.0</version>
+    </SaveTheMage_OfferchatFreeLiveChat>
+  </modules>
+  <frontend>
+    <layout>
+      <updates>
+            <OfferchatFreeLiveChat>
+              <file>SaveTheMage/OfferchatFreeLiveChat.xml</file>
+            </OfferchatFreeLiveChat>
+      </updates>
+    </layout>
+  </frontend>
+  <global>
+    <helpers>
+      <OfferchatFreeLiveChat>
+        <class>SaveTheMage_OfferchatFreeLiveChat_Helper</class>
+      </OfferchatFreeLiveChat>
+    </helpers>
+    <blocks>
+      <OfferchatFreeLiveChat>
+            <class>SaveTheMage_OfferchatFreeLiveChat_Block</class>
+      </OfferchatFreeLiveChat>
+    </blocks>
+  </global>
+  
+</config> 

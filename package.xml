@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<package>
+    <name>Offerchat_Free_Live_Chat</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>GPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Offerchat free live chat software for Magento.</summary>
+    <description>&lt;h1&gt;Description&lt;/h1&gt;&#xD;
+&lt;p&gt;Offerchat is a &lt;b&gt;free live chat program&lt;/b&gt; from &lt;a href="https://www.offerchat.com/" title="Offerchat Free Live Chat"&gt;www.offerchat.com&lt;/a&gt;. This is the Official Magento Extension which will  install the widget into your site. Simply enter your API Key after signing up for a free account with Offerchat.&#xD;
+&lt;/p&gt;&#xD;
+&#xD;
+&#xD;
+&lt;h1&gt;Chat Program Features&lt;/h1&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Full-featured chat tool &lt;/li&gt;&#xD;
+&lt;li&gt;Unlimited chats &lt;/li&gt;&#xD;
+&lt;li&gt;Unlimited websites&lt;/li&gt;&#xD;
+&lt;li&gt;Visitors and agent reports&lt;/li&gt;&#xD;
+&lt;li&gt;Customizable&lt;/li&gt;&#xD;
+&lt;li&gt;Statistically proven to increase conversion rates&lt;/li&gt;&#xD;
+&lt;li&gt;100% FREE Live Chat Software&lt;/li&gt;&#xD;
+&#xD;
+&lt;/ul&gt;&#xD;
+&#xD;
+&#xD;
+&#xD;
+&lt;h1&gt;How It Works&lt;/h1&gt;&#xD;
+&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Sign up for a free account with &lt;a href="https://www.offerchat.com/" title="Offerchat Free Live Chat"&gt;www.Offerchat.com&lt;/a&gt;&lt;/li&gt;&#xD;
+&lt;li&gt;Login to your Offerchat dashboard&lt;/li&gt;&#xD;
+&lt;li&gt;Select&lt;b&gt; Widget Settings&lt;/b&gt; on the left&lt;/li&gt;&#xD;
+&lt;li&gt;Select&lt;b&gt; Install Widget&lt;/b&gt; on the top&lt;/li&gt;&#xD;
+&lt;li&gt;Copy your &lt;b&gt;API Key&lt;/b&gt;&lt;/li&gt;&#xD;
+&lt;li&gt;Install this Magento extension&lt;/li&gt;&#xD;
+&lt;li&gt;Paste the &lt;b&gt;API Key&lt;/b&gt; under SaveTheMage&gt;Offerchat Free Live Chat&gt;Settings&lt;/li&gt;&#xD;
+&lt;li&gt;Go to your chat dashboard on offerchat.com and start chatting.&lt;/li&gt;&#xD;
+&#xD;
+&lt;/ul&gt;&#xD;
+&#xD;
+&lt;h1&gt;Is Offerchat really free?&lt;/h1&gt;&#xD;
+&lt;p&gt;Yes, it is. They won't even ask for your credit card.&lt;/p&gt;&#xD;
+&#xD;
+&lt;h1&gt;Why is Offerchat free?&lt;/h1&gt;&#xD;
+&lt;p&gt;Offerchat is 100% free because their revenue model is solely based on offering live chat outsourcing services. If you want to outsource your chat then hopefully you choose them. Otherwise its free to use&lt;/p&gt;&#xD;
+&#xD;
+&lt;h1&gt;Extensions Include:&lt;/h1&gt;&#xD;
+&lt;p&gt;- Free updates for life&#xD;
+&lt;br /&gt;- Free installation (paid extensions only)&lt;br /&gt;&#xD;
+- 24/7 Email and toll-free support&#xD;
+&lt;/p&gt;&#xD;
+&lt;h1&gt;Support&lt;/h1&gt;&#xD;
+&lt;p&gt;Have any questions about this product? Email us at &lt;a href="mailto:support@savethemage.com"&gt;Support@SaveTheMage.com&lt;/a&gt; or call us Toll-Free at &lt;b&gt;1-888-979-5882&lt;/b&gt;&#xD;
+&lt;/p&gt;&#xD;
+</description>
+    <notes>Official release</notes>
+    <authors><author><name>SaveTheMage</name><user>SaveTheMage</user><email>support@savethemage.com</email></author></authors>
+    <date>2013-07-24</date>
+    <time>19:34:27</time>
+    <contents><target name="magelocal"><dir name="SaveTheMage"><dir name="OfferchatFreeLiveChat"><dir name="Helper"><file name="Data.php" hash="41ce2117f49f07140a4c1dcaa166088d"/></dir><dir name="etc"><file name="adminhtml.xml" hash="3a4b53ff5589e39acdfd54e785cdc9b7"/><file name="config.xml" hash="06a686f4311e3025ff05eb203f805339"/><file name="system.xml" hash="e9e2f088835ba7b720bf28290fec100a"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="SaveTheMage"><file name="OfferchatFreeLiveChat.xml" hash="329c8b3c029b1df26864cf8194b6cd00"/></dir></dir><dir name="template"><dir name="SaveTheMage"><dir name="OfferchatFreeLiveChat"><file name="index.phtml" hash="ec1d6ee1794797550756164519daf505"/></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="SaveTheMage_OfferchatFreeLiveChat.xml" hash="1afc1a5f4ba7cacd652cbaa482e4c3a8"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

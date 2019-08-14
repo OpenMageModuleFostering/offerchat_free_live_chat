@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<config>
+      <tabs>
+        <SaveTheMageconfig translate="label" module="OfferchatFreeLiveChat">
+                <label>SaveTheMage</label>
+                <sort_order>600</sort_order>
+        </SaveTheMageconfig>
+      </tabs>	
+      <sections>
+            <OfferChat_options  translate="label" module="OfferchatFreeLiveChat">                    
+            <label>Offerchat Free Live Chat Installation Settings</label>
+            <tab>SaveTheMageconfig</tab>
+            <frontend_type>text</frontend_type>
+            <sort_order>1000</sort_order>
+            <show_in_default>1</show_in_default>
+            <show_in_website>1</show_in_website>
+            <show_in_store>1</show_in_store>
+            <groups>
+                <OfferChatSettings translate="label">
+                    <label>Offerchat Free Live Chat Installation Settings</label>
+                    <frontend_type>text</frontend_type>
+                    <sort_order>1</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>      
+
+                    <fields>
+                        <MerchantApiCode>
+                                <label>Merchant Api Code</label>
+                                <frontend_type>text</frontend_type>
+                                <comment><![CDATA[Api Code for the merchant collected from Offerchat after Registration. 
+<!--Visit <a target='_blank' href='http://www.savethemage.com/blog/how-to-install-offerchat-on-magento/'>how-to-install-offerchat-on-magento</a> to see the meaning of Api Key.-->
+]]></comment>
+                                <sort_order>1</sort_order>
+                                <show_in_default>1</show_in_default>
+                                <show_in_website>1</show_in_website>
+                                <show_in_store>1</show_in_store>    				
+                        </MerchantApiCode>		
+                    </fields>
+                </OfferChatSettings>
+            </groups>
+        </OfferChat_options>
+      </sections>
+</config>

@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Offerchat_Free_Live_Chat",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "Offerchat free live chat software for Magento.",
+    "authors": [
+    {
+        "name": "SaveTheMage",
+        "email": "support@savethemage.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
