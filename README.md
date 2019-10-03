@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This is the Official Offerchat extension for Magento which will install the widget into your site. Simply enter your API Key after signing up for a free account with Offerchat.
