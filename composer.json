@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Offerchat_Free_Live_Chat",
+    "name": "OpenMageModuleFostering\/Offerchat_Free_Live_Chat",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "This is the Official Offerchat extension for Magento which will install the widget into your site. Simply enter your API Key after signing up for a free account with Offerchat.",
     "authors": [
-    {
-        "name": "SaveTheMage",
-        "email": "support@savethemage.com"
-    }
-],
+        {
+            "name": "SaveTheMage",
+            "email": "support@savethemage.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
